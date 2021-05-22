@@ -1,2 +1,1 @@
-# coursera-test
-Coursera test repository/
+The Complete Web Developer Course 2.0
